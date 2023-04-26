@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henry
 - 👀 I’m interested in Software Engineering and Web Development
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate with people on projects
 - 📫 https://www.linkedin.com/in/henry-egboh-a23a30148
 
