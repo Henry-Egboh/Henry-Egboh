@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Henry
 - 👀 I’m interested in Software Engineering and Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate with people on projects
+- 🌱 I am a Frontend Web Developer
+- 💞️ MERN Stack development in view
 - 📫 https://www.linkedin.com/in/henry-egboh-a23a30148
 
 <!---
