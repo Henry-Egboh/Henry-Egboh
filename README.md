@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Henry
-- 👀 I’m interested in Software Engineering and Web Development
-- 🌱 I am a Frontend Web Developer
-- 💞️ MERN Stack development in view
+- 👋 Hi, I’m Henry (BeaconD)
+- 👀 A WEB Developer experienced in Nextjs, React, Typescript, Javascript, Postgres, MongoDB, Tailwind CSS, CSS, HTML
+- 🌱 Accessibility web app at the core
+- 💞️ Modern & Responsive Web App
 - 📫 https://www.linkedin.com/in/henry-egboh-a23a30148
 
 <!---
